@@ -1,0 +1,10 @@
+C:\Users\shawkyz\source\repos\MultimediaProjectGUI\MultimediaProjectGUI\bin\Release\MultimediaProjectGUI.exe.config
+C:\Users\shawkyz\source\repos\MultimediaProjectGUI\MultimediaProjectGUI\bin\Release\MultimediaProjectGUI.exe
+C:\Users\shawkyz\source\repos\MultimediaProjectGUI\MultimediaProjectGUI\bin\Release\MultimediaProjectGUI.pdb
+C:\Users\shawkyz\source\repos\MultimediaProjectGUI\MultimediaProjectGUI\obj\Release\MultimediaProjectGUI.csprojAssemblyReference.cache
+C:\Users\shawkyz\source\repos\MultimediaProjectGUI\MultimediaProjectGUI\obj\Release\MultimediaProjectGUI.MainWindow.resources
+C:\Users\shawkyz\source\repos\MultimediaProjectGUI\MultimediaProjectGUI\obj\Release\MultimediaProjectGUI.Properties.Resources.resources
+C:\Users\shawkyz\source\repos\MultimediaProjectGUI\MultimediaProjectGUI\obj\Release\MultimediaProjectGUI.csproj.GenerateResource.cache
+C:\Users\shawkyz\source\repos\MultimediaProjectGUI\MultimediaProjectGUI\obj\Release\MultimediaProjectGUI.csproj.CoreCompileInputs.cache
+C:\Users\shawkyz\source\repos\MultimediaProjectGUI\MultimediaProjectGUI\obj\Release\MultimediaProjectGUI.exe
+C:\Users\shawkyz\source\repos\MultimediaProjectGUI\MultimediaProjectGUI\obj\Release\MultimediaProjectGUI.pdb
